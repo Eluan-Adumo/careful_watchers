@@ -149,7 +149,7 @@ const ContactBanners = ()=>{
                                 </div>                             
 
                                 <div className = 'w-f-f-4'>
-                                    <input type = 'button' value = 'Send Message' className = 'act-btn secondary-bg-colored' /> 
+                                    <input type = 'button' value = 'Send Message' id = 'send-msg' className = 'act-btn secondary-bg-colored' /> 
                                 </div>
                             </div>
                         </div>

@@ -71,7 +71,7 @@ const Footer = ()=>{
                 </section>
                 <div id = 'footer-footer'>
                         <center>
-                            &copy; <b>Careful watchers</b> 2023 <Link to='/accounts'>Admin</Link>
+                            &copy; <b>Careful watchers</b> 2023 
                         </center>
                 </div>
             </section>
